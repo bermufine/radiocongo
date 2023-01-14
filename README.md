@@ -1,11 +1,11 @@
 # radiocongo
 {"categorie":[{"names":"Movie","videos":[{"descriptions":"Radio TOP CONGO fm est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["https://topcongofm2.ice.infomaniak.ch/topcongofm2-64.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM1NzRf/topcongo.jpg","titles":"TOP CONGO FM"},
 
-{"descriptions":"Radio AFRICA ONE est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["http://african1paris.ice.infomaniak.ch/african1paris-128.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM1NzRf/topcongo.jpg","titles":"AFRICA N1"},
+{"descriptions":"Radio AFRICA ONE est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["http://african1paris.ice.infomaniak.ch/african1paris-128.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NTVf/afric.png","titles":"AFRICA N1"},
 
-{"descriptions":"Radio BENDELE est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["http://ca.rcast.net:8014/;?listening-from-radio-garden=1555271961462"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM1NzRf/topcongo.jpg","titles":"BENDELE"},
+{"descriptions":"Radio BENDELE est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["http://ca.rcast.net:8014/;?listening-from-radio-garden=1555271961462"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NTRf/bendele.png","titles":"BENDELE"},
 
-{"descriptions":"Radio B_One est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["http://nr2.newradio.it:8296/"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM1NzRf/topcongo.jpg","titles":"B-ONE FM"},
+{"descriptions":"Radio B_One est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["http://nr2.newradio.it:8296/"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzUwMTJf/B_One.png","titles":"B-ONE FM"},
 
 {"descriptions":"Radio CongoNet est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["http://199.195.194.94:8007/"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM1NzRf/topcongo.jpg","titles":"CONGO NET FM"},
 
@@ -36,5 +36,10 @@
 {"descriptions":"Radio MIXT Congolais est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites".","source":["http://37.59.42.207:8080/"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NDhf/mixt.jpeg","titles":"MIXT CONGO FM"},
 
 {"descriptions":"Radio MUCODEC est le premier média privé Congolais  à avoir la plus large couverture hertzienne du pays. Elle couvre depuis novembre 2014 quatre grands bassins de population au Congo. Puisqu’elle émet à  Brazzaville depuis février 2010, à Pointe-Noire depuis mai 2011, dans le Niari (Dolisie) depuis juillet 2014 et  dans la Cuvette centrale (Oyo)  depuis novembre 2014.
-Autour de chaque point d’émission elle a un  rayon d’environ 70 kilomètres.".","source":["https://cdnradio.streamakaci.com/radiomucodec.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NDZf/mucodec.jpeg","titles":"MUCODEC FM"}
+Autour de chaque point d’émission elle a un  rayon d’environ 70 kilomètres.".","source":["https://cdnradio.streamakaci.com/radiomucodec.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NDZf/mucodec.jpeg","titles":"MUCODEC FM"},
+
+{"descriptions":"Radio Maria Brazzaville est une l'une des radios Catholic Emettant a Brazzaville avec des programme en diversites".","source":["https://onlineradiobox.com/json/cg/mariacongo/play?platform=web"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NDlf/maria.jpeg","titles":"MARIA BRAZZAVILLE"},
+
+{"descriptions":"Radio Maria Brazzaville est une l'une des radios Catholic Emettant a Brazzaville avec des programme en diversites".","source":["https://onlineradiobox.com/json/cg/mariacongo/play?platform=web"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NDlf/maria.jpeg","titles":"MARIA BRAZZAVILLE"}
 ]}]}
+
