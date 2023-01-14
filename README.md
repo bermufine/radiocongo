@@ -5,8 +5,6 @@
 
 {"descriptions":"Radio BENDELE est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["http://ca.rcast.net:8014/;?listening-from-radio-garden=1555271961462"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NTRf/bendele.png","titles":"BENDELE"},
 
-
-
 {"descriptions":"Studio RTB est une station de radio en ligne internationale diffusant un format de musique frais, édifiant et éclectique pour un public mondial. Studio RTB est une station indépendante pour la génération en ligne, connectant ceux qui ont déjà un lien fort avec le Congo.","source":["http://198.178.123.23:7156/;stream.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NDFf/rtb.jpg","titles":"STUDIO RTB FM"},
 
 
@@ -18,7 +16,29 @@
 
 {"descriptions":"Radio CongoNet est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["http://199.195.194.94:8007/"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM1NzRf/topcongo.jpg","titles":"CONGO NET FM"},
 
-{"descriptions":"UDPS RADIO est l'une des stations de musique les plus populaires. Station UDPS RADIO diffusant de la musique et des programmes à la fois dans l'air et en ligne. À l'origine, il s'agit d'une chaîne de radio pop, d'actualités et de discussion diffusée 24 heures sur 24 en ligne. UDPS RADIO exploite également divers programmes musicaux de manière cohérente pour les personnes de tous âges.","source":["http://37.59.42.207:9194/"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5Mzlf/udps.png","titles":"UDPS FM"}
+{"descriptions":"UDPS RADIO est l'une des stations de musique les plus populaires. Station UDPS RADIO diffusant de la musique et des programmes à la fois dans l'air et en ligne. À l'origine, il s'agit d'une chaîne de radio pop, d'actualités et de discussion diffusée 24 heures sur 24 en ligne. UDPS RADIO exploite également divers programmes musicaux de manière cohérente pour les personnes de tous âges.","source":["http://37.59.42.207:9194/"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5Mzlf/udps.png","titles":"UDPS FM"},
 
-]}]}
+{"descriptions":"Radio France International est une l'une des radios francaise riche aux informations mondiaux surtout de l'Afrique".","source":["http://37.59.42.207:8080/;stream/1"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NDJf/rfi.jpg","titles":"RFI"},
+
+{"descriptions":"Radio RATELKI est une l'une des radios Chretienne de la Republique Democratique du Congo, Emettant a Nkamba avec des programme en diversites","source":["https://liveonlineradio.net/ratelki-90-2-fm"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NDNf/ratelki.jpeg","titles":"RATELKI FM"},
+
+{"descriptions":"Radio Okapi, symbôle de la paix, est issue d'un partenariat entre la Monusco et la Fondation Hirondelle. Il s'agit d'une radio informative qui diffuse en langue française depuis l'année 2002 dans la République Démocratique du Cogno.","source":["http://rs1.radiostreamer.com:8000/;stream"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NDRf/okapi.jpg","titles":"OKAPI FM"},
+
+{"descriptions":"Radio GOWERA est une l'une des radios de la Republique Democratique du Congo, Emettant depuis GOMA en R.D.Congo, Goma Webradio est une station de radio digitale qui passe des musiques de Goma, des anciens succès, des chroniques, des émissions en swahili, Français et Anglais.","source":["http://node-25.zeno.fm/ym71vknrhm8uv?rj-ttl=4&rj-tok=AAABeNNG88YAWKTVWuL1asHNGA"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NTJf/gowera.jpg","titles":"GOWERA FM"},
+
+{"descriptions":"Radio Maria Brazzaville est une l'une des radios Catholic Emettant a Brazzaville avec des programme en diversites","source":["https://onlineradiobox.com/json/cg/mariacongo/play?platform=web"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NDlf/maria.jpeg","titles":"MARIA BRAZZAVILLE"},
+
+{"descriptions":"Radio RTNC est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["http://radio.rtnc.cd:8000/radio.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","titles":"RTNC 1 FM"},
+
+{"descriptions":"Radio Digital Congo Net diffuse ses programmes décorent ses playlists pour un public socialement et culturellement diversifié. En plus de la diffusion d'une variété de programmes d'information et de divertissement, Radio Digital Congo Net diffuse diverses productions locales. Leurs productions et programmes d'information contiennent des domaines tels que l'actualité, la cuisine, la culture, le divertissement et les sports. Ils fonctionnent comme un pont entre les auditeurs et la musique.","source":["https://radiodigitalcongofm.ice.infomaniak.ch/digitalcongofm-96.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzAxNzU1MjBf/digitalkongo","titles":"DIGITAL FM"},
+
+{"descriptions":"Radio LAVDCONGO est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["https://gooradios.com/stream/139369"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NTFf/lavda.jpeg","titles":"LAVDCONGO FM"},
+
+{"descriptions":"Radio Maria est une l'une des radios Catholic Emettant a Kinshasa avec des programme en diversites","source":["https://dreamsiteradiocp2.com/proxy/rmrepdemcongo?mp=/stream"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NDlf/maria.jpeg","titles":"MARIA FM"},
+
+{"descriptions":"Radio MCTVCongo est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["https://webradio1.ice.infomaniak.ch/webradio4-128.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NDdf/mnctvcongo.png","titles":"MCTV FM"},
+
+{"descriptions":"Radio MIXT Congolais est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["http://37.59.42.207:8080/"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NDhf/mixt.jpeg","titles":"MIXT CONGO FM"},
+
+{"descriptions":"Radio MUCODEC est le premier média privé Congolais  à avoir la plus large couverture hertzienne du pays. Elle couvre depuis novembre 2014 quatre grands bassins de population au Congo. Puisqu’elle émet à  Brazzaville depuis février 2010, à Pointe-Noire depuis mai 2011, dans le Niari (Dolisie) depuis juillet 2014 et  dans la Cuvette centrale (Oyo)  depuis novembre 2014. Autour de chaque point d’émission elle a un  rayon d’environ 70 kilomètres.","source":["https://cdnradio.streamakaci.com/radiomucodec.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NDZf/mucodec.jpeg","titles":"MUCODEC FM"}]}]}
 
