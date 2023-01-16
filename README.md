@@ -17,7 +17,7 @@
 
 {"descriptions":"Radio R RUMBA est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["https://webradio1.ice.infomaniak.ch/webradio4-128.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NDBf/rumba.jpeg","titles":"RUMBA FM"},
 
-{"descriptions":"Bomoko fm est une station indépendante pour la génération en ligne, connectant ceux qui ont déjà un lien fort avec le Congo.","source":["https://stream.streamaudio.de:8000/radio-bomoko"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY2MTYxMjhf/yakala.png","titles":"BOMOKO FM"},
+{"descriptions":"Bomoko fm est une station indépendante pour la génération en ligne, connectant ceux qui ont déjà un lien fort avec le Congo.","source":["https://stream.streamaudio.de:8000/radio-bomoko"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY2MTcyNTJf/bomoko.webp","titles":"BOMOKO FM"},
 
 
 
