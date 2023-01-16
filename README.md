@@ -59,7 +59,7 @@
 {"descriptions":"Radio MIXT Congolais est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["http://37.59.42.207:8080/"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NDhf/mixt.jpeg","titles":"MIXT CONGO FM"},
 
 
-{"descriptions":"Bouclier fm est une station chrétienne indépendante pour la génération en ligne, connectant ceux qui ont déjà un lien fort avec le Christ.","source":["https://bouclierdelafoi.radioca.st:443/stream"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY2MTYxMjZf/bouclier.png","titles":"BOUCLIER FM"},
+{"descriptions":"Trace Congo fm est une station généraliste indépendante pour la génération en ligne, connectant ceux qui ont déjà un lien fort avec le Congo","source":["https://n03a-eu.rcs.revma.com:443/u98b8f5q54zuv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY2MTYxMzZf/tracecongo.png","titles":"TRACE CONGO FM"},
 
 
 
