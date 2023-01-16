@@ -32,7 +32,7 @@
 
 
 
-{"descriptions":"Yakala fm est une station indépendante pour la génération en ligne, connectant ceux qui ont déjà un lien fort avec le Congo.","source":["https://yakalafm.ice.infomaniak.ch:443/yakalafm-128.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY2MTYxMjhf/yakala.png","titles":"YAKALA FM"},
+{"descriptions":"Bouclier fm est une station chrétienne indépendante pour la génération en ligne, connectant ceux qui ont déjà un lien fort avec le Christ.","source":["https://bouclierdelafoi.radioca.st:443/stream"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY2MTYxMjZf/bouclier.png","titles":"BOUCLIER FM"},
 
 
 
@@ -57,6 +57,11 @@
 {"descriptions":"Radio MCTVCongo est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["https://webradio1.ice.infomaniak.ch/webradio4-128.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NDdf/mnctvcongo.png","titles":"MCTV FM"},
 
 {"descriptions":"Radio MIXT Congolais est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["http://37.59.42.207:8080/"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NDhf/mixt.jpeg","titles":"MIXT CONGO FM"},
+
+
+{"descriptions":"Bouclier fm est une station chrétienne indépendante pour la génération en ligne, connectant ceux qui ont déjà un lien fort avec le Christ.","source":["https://bouclierdelafoi.radioca.st:443/stream"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY2MTYxMjZf/bouclier.png","titles":"BOUCLIER FM"},
+
+
 
 {"descriptions":"Radio MUCODEC est le premier média privé Congolais  à avoir la plus large couverture hertzienne du pays. Elle couvre depuis novembre 2014 quatre grands bassins de population au Congo. Puisqu’elle émet à  Brazzaville depuis février 2010, à Pointe-Noire depuis mai 2011, dans le Niari (Dolisie) depuis juillet 2014 et  dans la Cuvette centrale (Oyo)  depuis novembre 2014. Autour de chaque point d’émission elle a un  rayon d’environ 70 kilomètres.","source":["https://cdnradio.streamakaci.com/radiomucodec.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NDZf/mucodec.jpeg","titles":"MUCODEC FM"}]}]}
 
