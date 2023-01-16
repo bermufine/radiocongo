@@ -6,6 +6,9 @@
 {"descriptions":"Yakala fm est une station indépendante pour la génération en ligne, connectant ceux qui ont déjà un lien fort avec le Congo.","source":["https://yakalafm.ice.infomaniak.ch:443/yakalafm-128.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY2MTYxMjhf/yakala.png","titles":"YAKALA FM"},
 
 
+{"descriptions":"Pena fm est une station indépendante pour la génération en ligne, connectant ceux qui ont déjà un lien fort avec le Congo.","source":["https://stream-57.zeno.fm:443/dnw3x5tqpc9uv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY2MTYxMzFf/pana.png","titles":"PENA FM"},
+
+
 
 
 {"descriptions":"Radio BENDELE est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["http://ca.rcast.net:8014/;?listening-from-radio-garden=1555271961462"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NTRf/bendele.png","titles":"BENDELE"},
