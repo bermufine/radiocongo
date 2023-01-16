@@ -3,6 +3,11 @@
 
 {"descriptions":"Radio AFRICA ONE est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["http://african1paris.ice.infomaniak.ch/african1paris-128.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NTVf/afric.png","titles":"AFRICA N1"},
 
+{"descriptions":"Yakala fm est une station indépendante pour la génération en ligne, connectant ceux qui ont déjà un lien fort avec le Congo.","source":["https://yakalafm.ice.infomaniak.ch:443/yakalafm-128.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NDFf/rtb.jpg","titles":"YAKALA FM"},
+
+
+
+
 {"descriptions":"Radio BENDELE est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["http://ca.rcast.net:8014/;?listening-from-radio-garden=1555271961462"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NTRf/bendele.png","titles":"BENDELE"},
 
 {"descriptions":"Studio RTB est une station de radio en ligne internationale diffusant un format de musique frais, édifiant et éclectique pour un public mondial. Studio RTB est une station indépendante pour la génération en ligne, connectant ceux qui ont déjà un lien fort avec le Congo.","source":["http://198.178.123.23:7156/;stream.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NDFf/rtb.jpg","titles":"STUDIO RTB FM"},
