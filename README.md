@@ -17,11 +17,24 @@
 
 {"descriptions":"Radio R RUMBA est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["https://webradio1.ice.infomaniak.ch/webradio4-128.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NDBf/rumba.jpeg","titles":"RUMBA FM"},
 
+{"descriptions":"Bomoko fm est une station indépendante pour la génération en ligne, connectant ceux qui ont déjà un lien fort avec le Congo.","source":["https://stream.streamaudio.de:8000/radio-bomoko"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY2MTYxMjhf/yakala.png","titles":"BOMOKO FM"},
+
+
+
+
+
 {"descriptions":"Radio B_One est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["http://nr2.newradio.it:8296/"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzUwMTJf/B_One.png","titles":"B-ONE FM"},
 
 {"descriptions":"Radio CongoNet est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["http://199.195.194.94:8007/"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NTNf/congonet.jpg","titles":"CONGO NET FM"},
 
 {"descriptions":"UDPS RADIO est l'une des stations de musique les plus populaires. Station UDPS RADIO diffusant de la musique et des programmes à la fois dans l'air et en ligne. À l'origine, il s'agit d'une chaîne de radio pop, d'actualités et de discussion diffusée 24 heures sur 24 en ligne. UDPS RADIO exploite également divers programmes musicaux de manière cohérente pour les personnes de tous âges.","source":["http://37.59.42.207:9194/"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5Mzlf/udps.png","titles":"UDPS FM"},
+
+
+
+
+{"descriptions":"Yakala fm est une station indépendante pour la génération en ligne, connectant ceux qui ont déjà un lien fort avec le Congo.","source":["https://yakalafm.ice.infomaniak.ch:443/yakalafm-128.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY2MTYxMjhf/yakala.png","titles":"YAKALA FM"},
+
+
 
 {"descriptions":"Radio France International est une l'une des radios francaise riche aux informations mondiaux surtout de l'Afrique","source":["http://37.59.42.207:8080/;stream/1"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NDJf/rfi.jpg","titles":"RFI"},
 
