@@ -16,7 +16,7 @@
 {"descriptions":"Studio RTB est une station de radio en ligne internationale diffusant un format de musique frais, édifiant et éclectique pour un public mondial. Studio RTB est une station indépendante pour la génération en ligne, connectant ceux qui ont déjà un lien fort avec le Congo.","source":["http://198.178.123.23:7156/;stream.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NDFf/rtb.jpg","titles":"STUDIO RTB FM"},
 
 
-{"descriptions":"Radio Tele 50 est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["http://r2cfm.ice.infomaniak.ch/r2cfm-192.aac"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzM0Mzhf/tele50.jpeg","titles":"TELE 50 FM"},
+{"descriptions":"Radio Tele 50 est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["http://85.234.131.234:8080/ISI-BROADCAST/RADIO50/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzM0Mzhf/tele50.jpeg","titles":"TELE 50 FM"},
 
 {"descriptions":"Radio R RUMBA est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["https://webradio1.ice.infomaniak.ch/webradio4-128.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NDBf/rumba.jpeg","titles":"RUMBA FM"},
 
