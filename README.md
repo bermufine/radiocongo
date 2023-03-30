@@ -5,7 +5,7 @@
 
 {"descriptions":"Yakala fm est une station indépendante pour la génération en ligne, connectant ceux qui ont déjà un lien fort avec le Congo.","source":["https://yakalafm.ice.infomaniak.ch:443/yakalafm-128.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY2MTYxMjhf/yakala.png","titles":"YAKALA FM"},
 
-{"descriptions":"Hope fm africa est une radio 📻 chretienne emettant a Johannesburg South african diffuse 24/24 en ligne riche aux predications,  emissions,  musique, culturel,  et autres  24h/24 nous sommes en direct sur page Facebook, YouTube, website www.hopetvafrica.co.za Google play store hope tv africa email 📧 hopetvafrica2020@gmail.com contact 0027846809542","source":["https://yakalafm.ice.infomaniak.ch:443/yakalafm-128.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY2MTYxMjhf/yakala.png","titles":"HOPE FM AFRICA"},
+{"descriptions":"Hope fm africa est une radio 📻 chretienne emettant a Johannesburg South african diffuse 24/24 en ligne riche aux predications,  emissions,  musique, culturel,  et autres  24h/24 nous sommes en direct sur page Facebook, YouTube, website www.hopetvafrica.co.za Google play store hope tv africa email 📧 hopetvafrica2020@gmail.com contact 0027846809542","source":["https://yakalafm.ice.infomaniak.ch:443/yakalafm-128.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODc4MTQzNzNf/HopeAfricaFm.jpg","titles":"HOPE FM AFRICA"},
 
 {"descriptions":"Pena fm est une station indépendante pour la génération en ligne, connectant ceux qui ont déjà un lien fort avec le Congo.","source":["https://stream-57.zeno.fm:443/dnw3x5tqpc9uv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY2MTYxMzFf/pana.png","titles":"PENA FM"},
 
@@ -33,12 +33,7 @@
 
 {"descriptions":"UDPS RADIO est l'une des stations de musique les plus populaires. Station UDPS RADIO diffusant de la musique et des programmes à la fois dans l'air et en ligne. À l'origine, il s'agit d'une chaîne de radio pop, d'actualités et de discussion diffusée 24 heures sur 24 en ligne. UDPS RADIO exploite également divers programmes musicaux de manière cohérente pour les personnes de tous âges.","source":["http://37.59.42.207:9194/"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5Mzlf/udps.png","titles":"UDPS FM"},
 
-
-
-
 {"descriptions":"Bouclier fm est une station chrétienne indépendante pour la génération en ligne, connectant ceux qui ont déjà un lien fort avec le Christ.","source":["https://bouclierdelafoi.radioca.st:443/stream"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY2MTYxMjZf/bouclier.png","titles":"BOUCLIER FM"},
-
-
 
 {"descriptions":"Radio France International est une l'une des radios francaise riche aux informations mondiaux surtout de l'Afrique","source":["http://37.59.42.207:8080/;stream/1"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NDJf/rfi.jpg","titles":"RFI"},
 
@@ -62,10 +57,6 @@
 
 {"descriptions":"Radio MIXT Congolais est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["http://37.59.42.207:8080/"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NDhf/mixt.jpeg","titles":"MIXT CONGO FM"},
 
-
 {"descriptions":"Trace Congo fm est une station généraliste indépendante pour la génération en ligne, connectant ceux qui ont déjà un lien fort avec le Congo","source":["https://n03a-eu.rcs.revma.com:443/u98b8f5q54zuv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY2MTYxMzZf/tracecongo.png","titles":"TRACE CONGO FM"},
 
-
-
 {"descriptions":"Radio MUCODEC est le premier média privé Congolais  à avoir la plus large couverture hertzienne du pays. Elle couvre depuis novembre 2014 quatre grands bassins de population au Congo. Puisqu’elle émet à  Brazzaville depuis février 2010, à Pointe-Noire depuis mai 2011, dans le Niari (Dolisie) depuis juillet 2014 et  dans la Cuvette centrale (Oyo)  depuis novembre 2014. Autour de chaque point d’émission elle a un  rayon d’environ 70 kilomètres.","source":["https://cdnradio.streamakaci.com/radiomucodec.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NDZf/mucodec.jpeg","titles":"MUCODEC FM"}]}]}
-
