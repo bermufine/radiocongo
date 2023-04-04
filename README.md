@@ -55,7 +55,7 @@
 
 {"descriptions":"Radio MCTVCongo est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["https://webradio1.ice.infomaniak.ch/webradio4-128.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NDdf/mnctvcongo.png","titles":"MCTV FM"},
 
-{"descriptions":"RTNK BIDEKA est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["https://stream.zeno.fm/853qp86afc9uv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NDBf/rumba.jpeg","titles":"RTNK BIDEKA FM"},
+{"descriptions":"RTNK BIDEKA est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["https://stream.zeno.fm/853qp86afc9uv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODc5MTM2Mzlf/bideka.jpeg","titles":"RTNK BIDEKA FM"},
 
 {"descriptions":"Radio MIXT Congolais est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["http://37.59.42.207:8080/"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NDhf/mixt.jpeg","titles":"MIXT CONGO FM"},
 
