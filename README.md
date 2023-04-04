@@ -9,7 +9,7 @@
 
 {"descriptions":"Pena fm est une station indépendante pour la génération en ligne, connectant ceux qui ont déjà un lien fort avec le Congo.","source":["https://stream-57.zeno.fm:443/dnw3x5tqpc9uv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY2MTYxMzFf/pana.png","titles":"PENA FM"},
 
-{"descriptions":"Egg fm est une station indépendante pour la génération en ligne, connectant ceux qui ont déjà un lien fort avec le Congo.","source":["https://zeno.fm/radio/egg-pro-fm/"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODc5MDE0OTdf/EggFm.jpg","titles":"EGG FM"},
+{"descriptions":"Egg fm est une station indépendante pour la génération en ligne, connectant ceux qui ont déjà un lien fort avec le Congo.","source":["https://zeno.fm/radio/egg-pro-fm"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODc5MDE0OTdf/EggFm.jpg","titles":"EGG FM"},
 
 {"descriptions":"Nous sommes une Radio qui prône sur la promotion de l'art en général,au début nous avons commencé avec une émission musicale dans une station Radio local Radio muungano à Beni ville une émission qui recevez plus de 150 personnes de 11heure à 17heure chaque jeudi. Préoccupé par mon boulot depuis 2015, aujourd'hui je vais élargir ma zone d'audience,vendre la culture de mon pays, ma province, pourquoi pas ma ville. Jeudi MAKAMBO c'est une marque et appellation qui m'inspire trop de choses. Animateur ala radio depuis 2003, technicien en chef ala radio muungano beni depuis 2006, suis toujours passionné a mon boulot, métier de la Radio.","source":["https://zeno.fm/amp/radio/makambo-live/"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY4OTEwMTFf/makambo","titles":"MAKAMBO FM"},
 
