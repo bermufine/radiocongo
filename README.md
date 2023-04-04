@@ -17,7 +17,7 @@
 
 {"descriptions":"Studio RTB est une station de radio en ligne internationale diffusant un format de musique frais, édifiant et éclectique pour un public mondial. Studio RTB est une station indépendante pour la génération en ligne, connectant ceux qui ont déjà un lien fort avec le Congo.","source":["http://198.178.123.23:7156/;stream.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NDFf/rtb.jpg","titles":"STUDIO RTB FM"},
 
-{"descriptions":"Kongo fm est une station de la RDCongo, connectant ceux qui ont déjà un lien fort avec le Congo.","source":["https://stream.zeno.fm/eqpgqu4h1c9uv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY2MTcyNTJf/bomoko.webp","titles":"KONGO FM"},
+{"descriptions":"Kongo fm est une station de la RDCongo, connectant ceux qui ont déjà un lien fort avec le Congo.","source":["https://stream.zeno.fm/eqpgqu4h1c9uv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODc5MTIxNjBf/kongo.jpeg","titles":"KONGO FM"},
 
 {"descriptions":"Radio Tele 50 est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["http://85.234.131.234:8080/ISI-BROADCAST/RADIO50/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzM0Mzhf/tele50.jpeg","titles":"TELE 50 FM"},
 
@@ -54,6 +54,8 @@
 {"descriptions":"Radio Maria est une l'une des radios Catholic Emettant a Kinshasa avec des programme en diversites","source":["https://dreamsiteradiocp2.com/proxy/rmrepdemcongo?mp=/stream"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NDlf/maria.jpeg","titles":"MARIA FM"},
 
 {"descriptions":"Radio MCTVCongo est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["https://webradio1.ice.infomaniak.ch/webradio4-128.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NDdf/mnctvcongo.png","titles":"MCTV FM"},
+
+{"descriptions":"RTNK BIDEKA est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["https://stream.zeno.fm/853qp86afc9uv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NDBf/rumba.jpeg","titles":"RTNK BIDEKA FM"},
 
 {"descriptions":"Radio MIXT Congolais est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["http://37.59.42.207:8080/"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NDhf/mixt.jpeg","titles":"MIXT CONGO FM"},
 
