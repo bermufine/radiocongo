@@ -79,9 +79,9 @@
 
 
 
-{"descriptions":"Radio B_One est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["http://nr2.newradio.it:8296/"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzUwMTJf/B_One.png","titles":"B-ONE FM"},
+{"descriptions":"Gospel fm est l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["https://stream-056.zeno.fm:443/n3sgwrm2mg8uv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzUwMTJf/B_One.png","titles":"GOSPEL FM"},
 
-{"descriptions":"Radio B_One est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["http://nr2.newradio.it:8296/"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzUwMTJf/B_One.png","titles":"B-ONE FM"},
+{"descriptions":"Radio Maniema Libertés est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["https://stream-011.zeno.fm:443/qzr1hds7rs8uv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzUwMTJf/B_One.png","titles":"MANIEMA LIBERTÉS FM"},
 
 {"descriptions":"Radio B_One est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["http://nr2.newradio.it:8296/"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzUwMTJf/B_One.png","titles":"B-ONE FM"},
 
