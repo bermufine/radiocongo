@@ -71,7 +71,7 @@
 
 {"descriptions":"Radio Congo Eveil est l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["https://stream-069.zeno.fm:443/efehbaftm9duv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODc5NzgxNTRf/congoreveil.jpeg","titles":"CONGO EVEIL FM"},
 
-{"descriptions":"Radio Océan est l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["https://stream-017.zeno.fm:443/wnawq794tk8uv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODc5NzgxNzlf/ocean.jpeg","titles":"OCÉAN FM"},
+{"descriptions":"Emettant depuis Goma en R.D.C, Océan FM est une radio culturelle humanitaire. Une organisation des communautés pour des échanges et analyses dans la lutte pour le retour de la paix. Sous la fréquence modulée est 100.0 MHz en ville de GOMA, Océan Fm diffuse un programme rempli. La promotion des artistes locaux et nationaux, des émissions sous différents thèmes et sujets, l’actualité est au rendez-vous à part des meilleurs sélections musicales de tout genre","source":["https://stream-017.zeno.fm:443/wnawq794tk8uv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODc5NzgxNzlf/ocean.jpeg","titles":"OCÉAN FM"},
 
 {"descriptions":"Ekosimba fm est l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["https://stream-018.zeno.fm:443/kvqbhgn0m18uv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODc5NzgxNDdf/ekosimba.jpeg","titles":"EKOSIMBA FM"},
 
