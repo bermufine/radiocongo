@@ -101,14 +101,10 @@
 {"descriptions":"Beco est l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["https://stream-068.zeno.fm:443/3ituyl9czfotv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzUwMTJf/B_One.png","titles":"BECO FM"},
 
 
-{"descriptions":"Radio 2S Music est l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["https://stream-058.zeno.fm:443/hcb7tvbp8hhvv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzUwMTJf/B_One.png","titles":"2S MUSIC FM"},
+{"descriptions":"Radio Message du Peuple Uvira est l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites, LIGNE EDITORIALE DE LE RMP, COMBATTRE L'IGNORANCE EN VUE D'UN DEVELOPPENT SOCIO-CULTUREL ET ECONOMIQUE DURABLE","source":["https://stream-035.zeno.fm:443/bqtxufqsaqnuv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzUwMTJf/B_One.png","titles":"MESSAGE PEUPLE UVIRA FM"},
 
 
 {"descriptions":"Radio 2S Music est l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["https://stream-058.zeno.fm:443/hcb7tvbp8hhvv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzUwMTJf/B_One.png","titles":"2S MUSIC FM"},
-
-
-
-
 
 
 
