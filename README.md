@@ -86,13 +86,14 @@
 
 {"descriptions":"Radio Océan est l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["https://stream-017.zeno.fm:443/wnawq794tk8uv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzUwMTJf/B_One.png","titles":"OCÉAN FM"},
 
-
 {"descriptions":"Ekosimba fm est l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["https://stream-018.zeno.fm:443/kvqbhgn0m18uv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzUwMTJf/B_One.png","titles":"EKOSIMBA FM"},
 
-{"descriptions":"Radio 2S Music est l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["https://stream-058.zeno.fm:443/hcb7tvbp8hhvv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzUwMTJf/B_One.png","titles":"2S MUSIC FM"},
 
 
-{"descriptions":"Beroya fm est l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["https://stream-049.zeno.fm:443/2k63h8q4tk8uv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzUwMTJf/B_One.png","titles":"BEROYA FM"},
+{"descriptions":"Radio 2S Music est l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["https://stream-058.zeno.fm:443/hcb7tvbp8hhvv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODc5NzgxNTNf/2smusic.jpeg","titles":"2S MUSIC FM"},
+
+{"descriptions":"Beroya fm est l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["https://stream-049.zeno.fm:443/2k63h8q4tk8uv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODc5NzgxNDVf/beroya.jpeg","titles":"BEROYA FM"},
+
 
 
 {"descriptions":"Radio Kintwadi fm est l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["https://stream-071.zeno.fm:443/20va7pcnsp8uv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzUwMTJf/B_One.png","titles":"KINTWADI FM"},
