@@ -9,13 +9,11 @@
 
 {"descriptions":"Pena fm est une station indépendante pour la génération en ligne, connectant ceux qui ont déjà un lien fort avec le Congo.","source":["https://stream-57.zeno.fm:443/dnw3x5tqpc9uv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY2MTYxMzFf/pana.png","titles":"PENA FM"},
 
-{"descriptions":"Egg fm est une station indépendante pour la génération en ligne, connectant ceux qui ont déjà un lien fort avec le Congo.","source":["https://zeno.fm/radio/egg-pro-fm"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODc5MDE0OTdf/EggFm.jpg","titles":"EGG FM"},
+{"descriptions":"Egg fm est une station indépendante pour la génération en ligne, connectant ceux qui ont déjà un lien fort avec le Congo.","source":["https://stream-011.zeno.fm:443/0w1gkvaq8whvv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODc5MDE0OTdf/EggFm.jpg","titles":"EGG FM"},
 
 {"descriptions":"Nous sommes une Radio qui prône sur la promotion de l'art en général,au début nous avons commencé avec une émission musicale dans une station Radio local Radio muungano à Beni ville une émission qui recevez plus de 150 personnes de 11heure à 17heure chaque jeudi. Préoccupé par mon boulot depuis 2015, aujourd'hui je vais élargir ma zone d'audience,vendre la culture de mon pays, ma province, pourquoi pas ma ville. Jeudi MAKAMBO c'est une marque et appellation qui m'inspire trop de choses. Animateur ala radio depuis 2003, technicien en chef ala radio muungano beni depuis 2006, suis toujours passionné a mon boulot, métier de la Radio.","source":["https://stream-058.zeno.fm:443/0az997mchfhvv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY4OTEwMTFf/makambo","titles":"MAKAMBO FM"},
 
 {"descriptions":"Radio BENDELE est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["http://ca.rcast.net:8014/;?listening-from-radio-garden=1555271961462"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NTRf/bendele.png","titles":"BENDELE"},
-
-
 
 
 {"descriptions":"Zola Bukongo fm est l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["https://stream-011.zeno.fm:443/zte3spf8sk8uv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzUwMTJf/B_One.png","titles":"ZOLA BUKONGO FM"},
@@ -100,7 +98,7 @@
 {"descriptions":"Radio Kintwadi fm est l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["https://stream-071.zeno.fm:443/20va7pcnsp8uv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzUwMTJf/B_One.png","titles":"KINTWADI FM"},
 
 
-{"descriptions":"Radio 2S Music est l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["https://stream-058.zeno.fm:443/hcb7tvbp8hhvv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzUwMTJf/B_One.png","titles":"2S MUSIC FM"},
+{"descriptions":"Beco est l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["https://stream-068.zeno.fm:443/3ituyl9czfotv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzUwMTJf/B_One.png","titles":"BECO FM"},
 
 
 {"descriptions":"Radio 2S Music est l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["https://stream-058.zeno.fm:443/hcb7tvbp8hhvv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzUwMTJf/B_One.png","titles":"2S MUSIC FM"},
