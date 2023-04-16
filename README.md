@@ -81,8 +81,7 @@
 
 {"descriptions":"Beroya fm est l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["https://stream-049.zeno.fm:443/2k63h8q4tk8uv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODc5NzgxNDVf/beroya.jpeg","titles":"BEROYA FM"},
 
-{"descriptions":"Mishapi fm est l'une des radios de la Republique Democratique du Congo, Emettant à Goma avec des programme en diversites","source":["http://89.163.146.99:80/MISHAPI-24/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODc5NzgxNDVf/beroya.jpeg","titles":"MISHAPI 24 FM"},
-
+{"descriptions":"Mishapi fm est l'une des radios de la Republique Democratique du Congo, Emettant à Goma avec des programme en diversites","source":["http://89.163.146.99:80/MISHAPI-24/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODgwNzU0MzJf/Mishapifm.jpg","titles":"MISHAPI 24 FM"},
 
 {"descriptions":"Radio Kintwadi fm est l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["https://stream-071.zeno.fm:443/20va7pcnsp8uv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODc5NzgxNzVf/Kintwadi.jpg","titles":"KINTWADI FM"},
 
