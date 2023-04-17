@@ -1,6 +1,8 @@
 # radiocongo
 {"categorie":[{"names":"Movie","videos":[{"descriptions":"RDC Gospel fm est une l'une des radios chrétiennes de la Republique Democratique du Congo, Emettant a kinshasa avec des musiques religieuses et prédications","source":["https://ca.publicssl.net:443/7002/"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODgwNzM5MTBf/rdcgospel.jpg","titles":"RDC GOSPEL FM"},
 
+{"descriptions":"Radio Géant fm est une l'une des radios de la Republique Democratique du Congo, Emettant à Kolwezi qui vous fait revivre les informations de la RDC en temps réel","source":["https://servidor31.brlogic.com:7070/live"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODgwODA1MzZf/grantradio.png","titles":"GÉANT FM"},
+
 {"descriptions":"Radio TOP CONGO fm est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["https://topcongofm2.ice.infomaniak.ch/topcongofm2-64.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM1NzRf/topcongo.jpg","titles":"TOP CONGO FM"},
 
 {"descriptions":"Radio AFRICA ONE est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["http://african1paris.ice.infomaniak.ch/african1paris-128.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NTVf/afric.png","titles":"AFRICA N1"},
