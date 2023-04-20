@@ -11,6 +11,8 @@
 
 {"descriptions":"Hope fm africa est une radio 📻 chretienne emettant a Johannesburg South african diffuse 24/24 en ligne riche aux predications,  emissions,  musique, culturel,  et autres  24h/24 nous sommes en direct sur page Facebook, YouTube, website www.hopetvafrica.co.za Google play store hope tv africa email 📧 hopetvafrica2020@gmail.com contact 0027846809542","source":["https://yakalafm.ice.infomaniak.ch:443/yakalafm-128.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODc4MTQzNzNf/HopeAfricaFm.jpg","titles":"HOPE FM AFRICA"},
 
+{"descriptions":"Radio Bana Okapi, symbôle de la paix, est issue d'un partenariat entre la Monusco et la Fondation Hirondelle. Il s'agit d'une radio informative qui diffuse en langue française depuis l'année 2002 dans la République Démocratique du Cogno.","source":["http://rs1.radiostreamer.com:8030/index.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NDRf/okapi.jpg","titles":"BANA OKAPI FM"},
+
 {"descriptions":"Pena fm est une station indépendante pour la génération en ligne, connectant ceux qui ont déjà un lien fort avec le Congo.","source":["https://stream-57.zeno.fm:443/dnw3x5tqpc9uv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY2MTYxMzFf/pana.png","titles":"PENA FM"},
 
 {"descriptions":"Egg fm est une station indépendante pour la génération en ligne, connectant ceux qui ont déjà un lien fort avec le Congo.","source":["https://stream-011.zeno.fm:443/0w1gkvaq8whvv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODc5MDE0OTdf/EggFm.jpg","titles":"EGG FM"},
