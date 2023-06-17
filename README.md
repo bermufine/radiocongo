@@ -5,7 +5,7 @@
 
 {"descriptions":"Radio TOP CONGO fm est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["https://topcongofm2.ice.infomaniak.ch/topcongofm2-64.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM1NzRf/topcongo.jpg","titles":"TOP CONGO FM"},
 
-{"descriptions":"Zaïre Télévisionsest la chaine congolaise de la Diasporas qui diffusant des musique théâtres et autres, Whatsapp +447471633865 / Tel +447305498667 et Web www.zaire-studio.com","source":["https://api.radioking.io/radio/591259/listen.m3u"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODQ2NzY3NDRf/zaire.jpeg","titles":"ZAÎRE FM"},
+{"descriptions":"Zaïre Télévisionsest la chaine congolaise de la Diasporas qui diffusant des musique théâtres et autres, Whatsapp +447471633865 / Tel +447305498667 et Web www.zaire-studio.com","source":["https://www.radioking.com/play/zaire-tv-radio"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODQ2NzY3NDRf/zaire.jpeg","titles":"ZAÎRE FM"},
 
 
 {"descriptions":"Zaïre Télévisionsest la chaine congolaise de la Diasporas qui diffusant des musique théâtres et autres, Whatsapp +447471633865 / Tel +447305498667 et Web www.zaire-studio.com","source":["https://api.radioking.io/radio/591259/listen.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODQ2NzY3NDRf/zaire.jpeg","titles":"ZAÎRE FM"},
