@@ -7,7 +7,7 @@
 
 {"descriptions":"Zaïre Télévisionsest la chaine congolaise de la Diasporas qui diffusant des musique théâtres et autres, Whatsapp +447471633865 / Tel +447305498667 et Web www.zaire-studio.com","source":["https://listen.radioking.com/radio/591259/stream/651976"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTA2NzEwMDFf/zairefm.jpg","titles":"ZAÎRE FM"},
 
-{"descriptions":"TamTam fm la chaine congolaise qui diffusant des musique théâtres et autres, Whatsapp +447471633865 / Tel +447305498667 et Web www.zaire-studio.com","source":["https://api.radioking.io/radio/591259/listen.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTA2NzAzODJf/tamtam.jpeg","titles":"TAMTAM FM"},
+{"descriptions":"TamTam fm la chaine congolaise qui diffusant des musique théâtres et autres, Whatsapp +447471633865 / Tel +447305498667 et Web www.zaire-studio.com","source":["https://api.radioking.io/radio/591259/listen.m3u8"],"subtitles":"By Channel","thumbs":"https://listen.radioking.com/radio/10736/stream/295960","titles":"TAMTAM FM"},
 
 {"descriptions":"Bostra fm la chaine chretienne de la Diasporas qui diffusant des enseignements biblique, predications, musiques chretiennes et autres, Whatsapp +447471633865 / Tel +447305498667 et Web www.zaire-studio.com","source":["https://www.radioking.com/play/radio-bostra-lingala/269452"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTA2NzAzNjlf/bostrafm.png","titles":"BOSTRA FM"},
 
