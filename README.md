@@ -3,8 +3,11 @@
 
 {"descriptions":"RDC Gospel fm est une l'une des radios chrétiennes de la Republique Democratique du Congo, Emettant a kinshasa avec des musiques religieuses et prédications","source":["https://ca.publicssl.net:443/7002/"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODgwNzM5MTBf/rdcgospel.jpg","titles":"RDC GOSPEL FM"},
 
-{"descriptions":"Kinmedia FM is an International online Radio that plays Rhumba music . We mainly broadcast in English , Kiswahili and Lingala.","source":["https://od.lk/s/M18yOTI3MTUwMThf/standby.jpg"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU3OTkzMzBf/kinmediafm.jpg
+{"descriptions":"Kinmedia FM is an International online Radio that plays Rhumba music . We mainly broadcast in English , Kiswahili and Lingala.","source":["https://stream-149.zeno.fm:443/sfnwvtfelzzvv?zs=kGSFMqPQSS6tLL2WD_ZVtA&aw_0_req_lsid=5811bf0128194cf78704a1e12ff3241f&triton-uid=cookie%3Ab495acae-b468-4dec-b277-9522bd73c3e8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU3OTkzMzBf/kinmediafm.jpg
 ","titles":"KIN MEDIA FM"},
+
+{"descriptions":"Kinmedia FM is an International online Radio that plays Rhumba music . We mainly broadcast in English , Kiswahili and Lingala.","source":["https://zeno.fm/radio/kinmedia-fm/"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU3OTkzMzBf/kinmediafm.jpg
+","titles":"KIN MEDIA FM 2"},
 
 {"descriptions":"Radio Géant fm est une l'une des radios de la Republique Democratique du Congo, Emettant à Kolwezi qui vous fait revivre les informations de la RDC en temps réel","source":["https://servidor31.brlogic.com:7070/live"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODgwODA1MzZf/grantradio.png","titles":"GÉANT FM"},
 
