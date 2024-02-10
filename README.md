@@ -20,6 +20,8 @@
 
 {"descriptions":"Zaïre Télévisionsest la chaine congolaise de la Diasporas qui diffusant des musique théâtres et autres, Whatsapp +447763356181 et Web www.zaire-studio.com","source":["https://listen.radioking.com/radio/591259/stream/651976"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTA2NzEwMDFf/zairefm.jpg","titles":"ZAÎRE FM"},
 
+{"descriptions":"Radio Tele 50 est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["http://85.234.131.234:8080/ISI-BROADCAST/RADIO50/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzM0Mzhf/tele50.jpeg","titles":"TELE 50 FM"},
+
 {"descriptions":"Bana Okapi est une radio qui est faite uniquement avec des enfants, c’est une radio d’éveil, une radio positive, c’est une radio de développement, c’est une radio où on s’amuse, on apprend, on écoute de la musique. Dans le comité de éditions et de rédaction, les jeunes sont des reporters et travaillent avec les agents de la radio Bana Okapi et ensemble, ils proposent des programmes. Et, nous allons souvent avoir des interactions avec des jeunes auditeurs, voire, ceux qui aimeraient écouter la radio et avoir l’interaction régulière avec eux. Donc, je voulais vraiment féliciter Radio Okapi et souhaiter une longue vie à Bana Okapi","source":["http://rs1.radiostreamer.com:8030/index.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODgxNTU2NzNf/banaokapi.png","titles":"BANA OKAPI FM"},
 
 {"descriptions":"Bostra fm la chaine chretienne de la Diasporas qui diffusant des enseignements biblique, predications, musiques chretiennes et autres, Whatsapp +447471633865 / Tel +447305498667 et Web www.zaire-studio.com","source":["https://www.radioking.com/play/radio-bostra-lingala/269452"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTA2NzAzNjlf/bostrafm.png","titles":"BOSTRA FM"},
@@ -43,8 +45,6 @@
 {"descriptions":"Zola Bukongo fm est l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["https://stream-011.zeno.fm:443/zte3spf8sk8uv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODc5NzgxMDNf/zolabukongo.jpeg","titles":"ZOLA BUKONGO FM"},
 
 {"descriptions":"Kongo fm est une station de la RDCongo, connectant ceux qui ont déjà un lien fort avec le Congo.","source":["https://stream.zeno.fm/eqpgqu4h1c9uv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODc5MTIxNjBf/kongo.jpeg","titles":"KONGO FM"},
-
-{"descriptions":"Radio Tele 50 est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["http://85.234.131.234:8080/ISI-BROADCAST/RADIO50/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzM0Mzhf/tele50.jpeg","titles":"TELE 50 FM"},
 
 {"descriptions":"Radio R RUMBA est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["https://webradio1.ice.infomaniak.ch/webradio4-128.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NDBf/rumba.jpeg","titles":"RUMBA FM"},
 
@@ -89,6 +89,8 @@
 {"descriptions":"Radio Gospel fm est une station indépendante pour la génération en ligne, connectant ceux qui ont déjà un lien fort avec le Congo.","source":["http://stream-152.zeno.fm/n3sgwrm2mg8uv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODc5MDE0OTdf/EggFm.jpg","titles":"RADIO GOSPEL RDC"},
 
 {"descriptions":"Radio Gospel fm est une station indépendante pour la génération en ligne, connectant ceux qui ont déjà un lien fort avec le Congo.","source":["http://stream-152.zeno.fm/n3sgwrm2mg8uv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODc5MDE0OTdf/EggFm.jpg","titles":"RADIO GOSPEL RDC"},
+
+{"descriptions":"Radio TOP CONGO fm est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["https://stream-162.zeno.fm/qw4vv0vy0reuv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM1NzRf/topcongo.jpg","titles":"TOP CONGO FM"},
 
 
 
