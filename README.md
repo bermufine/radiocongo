@@ -3,6 +3,8 @@
 
 {"descriptions":"UDPS RADIO est l'une des stations de musique les plus populaires. Station UDPS RADIO diffusant de la musique et des programmes à la fois dans l'air et en ligne. À l'origine, il s'agit d'une chaîne de radio pop, d'actualités et de discussion diffusée 24 heures sur 24 en ligne. UDPS RADIO exploite également divers programmes musicaux de manière cohérente pour les personnes de tous âges.","source":["http://37.59.42.207:9194/"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5Mzlf/udps.png","titles":"UDPS FM"},
 
+{"descriptions":"Gcm Radioest une l'une des radios de la Republique du Congo, Emettant à Brazzaville","source":["https://gcmradio.radioca.st/autodj"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODgwNzM5MTBf/rdcgospel.jpg","titles":"GCM RADIO"},
+
 {"descriptions":"RDC Gospel fm est une l'une des radios chrétiennes de la Republique Democratique du Congo, Emettant a kinshasa avec des musiques religieuses et prédications","source":["https://ca.publicssl.net:443/7002/"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODgwNzM5MTBf/rdcgospel.jpg","titles":"RDC GOSPEL"},
 
 {"descriptions":"Kinmedia FM is an International online Radio that plays Rhumba music . We mainly broadcast in English , Kiswahili and Lingala.","source":["https://stream.zeno.fm/sfnwvtfelzzvv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU3OTkzMzBf/kinmediafm.jpg
