@@ -6,6 +6,8 @@
 {"descriptions":"GCM RADIO est une web radio thématique émettant de Brazzaville au Congo : culture, société,  sport environnement. Pour tout contact :
 +242 065 12 54 97","source":["https://gcmradio.radioca.st/autodj"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfODA1NzQ1Njdf/gcmradio.jpg","titles":"GCM RADIO"},
 
+{"descriptions":"RCJ Radio RADIO est une web radio thématique émettant de Brazzaville au Congo","source":["https://rcj.radioca.st/stream?type=http&nocache=21031"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfODA2NjU5NzRf/rcjFm.jpg","titles":"RCJ RADIO"},
+
 {"descriptions":"RDC Gospel fm est une l'une des radios chrétiennes de la Republique Democratique du Congo, Emettant a kinshasa avec des musiques religieuses et prédications","source":["https://ca.publicssl.net:443/7002/"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODgwNzM5MTBf/rdcgospel.jpg","titles":"RDC GOSPEL"},
 
 {"descriptions":"Kinmedia FM is an International online Radio that plays Rhumba music . We mainly broadcast in English , Kiswahili and Lingala.","source":["https://stream.zeno.fm/sfnwvtfelzzvv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU3OTkzMzBf/kinmediafm.jpg
